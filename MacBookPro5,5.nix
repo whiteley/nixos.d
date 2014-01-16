@@ -16,6 +16,8 @@
   networking.wireless.enable = true;
   networking.wireless.interfaces = [ "wlan0" ];
 
+  time.timeZone = "America/Los_Angeles";
+
   i18n = {
     consoleFont = "lat9w-16";
     consoleKeyMap = "us";
