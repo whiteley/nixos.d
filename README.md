@@ -1,0 +1,4 @@
+nixos.d
+=======
+
+NixOS configurations
